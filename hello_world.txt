@@ -5,3 +5,4 @@ git add .    will add all files in cd to staging area
 git commit -m "Edit ______ and _____" will commit files
 every time you modify you must stage and commit the files
 having trouble uploading changes into github
+solution, save and hit $ git add . 
