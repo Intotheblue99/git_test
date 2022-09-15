@@ -1,0 +1,4 @@
+$ git add ____ will add a file to the staging area in git
+red indicates it is not staged
+green indicates it is staged
+git add .    will add all files in cd to staging area
