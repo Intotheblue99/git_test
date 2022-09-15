@@ -4,4 +4,4 @@ green indicates it is staged
 git add .    will add all files in cd to staging area
 git commit -m "Edit ______ and _____" will commit files
 every time you modify you must stage and commit the files
-updateing...
+having trouble uploading changes into github
