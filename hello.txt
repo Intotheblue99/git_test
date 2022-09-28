@@ -1,3 +1,4 @@
 revisit w/ notes
 git add____ sends file to staging area
 git commit -m "add ______" commits a file
+git push uploads work to github repo
